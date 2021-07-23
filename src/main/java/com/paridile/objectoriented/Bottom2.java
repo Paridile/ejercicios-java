@@ -8,7 +8,7 @@ public class Bottom2 extends Top {
         no existe el constructor vacio.
     */
     public Bottom2(String s) {
-        super("");
+        //super("");
     }
 
     public static void main(String[] args) {
