@@ -1,10 +1,7 @@
-package com.paridile.clock;
+package com.paridile.innerclases.clock;
 
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.Date;
+
 
 public class PruebaTemporizadorConClaseInterna {
 
