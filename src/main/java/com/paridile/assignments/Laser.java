@@ -23,4 +23,5 @@ public class Laser {
         Box[] ma = { b2, b1 };
         return ma;
     }                
+
 }

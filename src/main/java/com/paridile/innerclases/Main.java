@@ -11,6 +11,8 @@ public class Main {
         JPanel panel = new JPanel();                          
         panel.add(new Button("Haz click"));
         frame.setContentPane(panel);
-        frame.setVisible(true);                    
+        frame.setVisible(true);                                
     }
+
+
 }
