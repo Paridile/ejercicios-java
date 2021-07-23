@@ -1,4 +1,4 @@
-package com.paridile.clock;
+package com.paridile.innerclases.clock;
 import javax.swing.*;
 
 
