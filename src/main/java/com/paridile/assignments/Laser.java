@@ -8,7 +8,7 @@ class Box {
 } 
 
 public class Laser {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Box b1 = new Box(5);
         Box[] ba = go(b1, new Box(6));
         ba[0] = b1;

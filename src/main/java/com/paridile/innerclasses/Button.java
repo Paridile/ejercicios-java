@@ -1,4 +1,5 @@
-package com.paridile.innerclases;
+package com.paridile.innerclasses;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -10,17 +11,14 @@ public class Button extends JButton {
         addActionListener(new ButtonClicked());
     }
 
-
     private class ButtonClicked implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             btnClick();
         }
+
         private void btnClick() {
             System.out.println("Button clicked");
         }
-        
     }
-
-
 
 }
