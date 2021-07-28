@@ -14,4 +14,8 @@ public class PalindromeString {
 		StringBuffer sb = new StringBuffer(s);
 		return sb.reverse().toString().equalsIgnoreCase(s);
 	}
+
+	public strictfp static boolean asd(char[] s) {
+		return s.length % 2 == 0;
+	}
 }
