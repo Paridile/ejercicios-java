@@ -1,4 +1,4 @@
-package com.paridile.week4.generics;
+package com.paridile.week4.collections;
 
 import java.util.*;
 
@@ -27,3 +27,4 @@ class ToDos {
 	}
 	public int hashCode() { return 9; }
 }
+
