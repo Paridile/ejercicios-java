@@ -2,19 +2,19 @@
 
 ## Temas vistos
 
-1. Encapsulación, Herencia, Sobrescritura enlace
+1. Encapsulación, Herencia, Sobrescritura 
 
-2. Sobrecarga Métodos, Polimorfismo enlace
+2. Sobrecarga Métodos, Polimorfismo 
 
-3. Constructores enlace
+3. Constructores 
 
-4. InstanceOf, Conversiones de Tipos enlace
+4. InstanceOf, Conversiones de Tipos 
 
-5. Implementando Interfaces, Tipos de Retorno enlace
+5. Implementando Interfaces, Tipos de Retorno 
 
-6. Miembros Estáticos, uso de la palabra reservada Static enlace
+6. Miembros Estáticos, uso de la palabra reservada Static 
 
-7. Acoplamiento y Cohesión enlace
+7. Acoplamiento y Cohesión 
 
 8. Clases Internas Y Anónimas  
 
