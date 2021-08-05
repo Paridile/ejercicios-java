@@ -1,4 +1,4 @@
-package com.paridile.week1.innerclasses.clock;
+package com.paridile.week1.objectoriented.innerclasses.clock;
 
 import javax.swing.*;
 import java.awt.*;

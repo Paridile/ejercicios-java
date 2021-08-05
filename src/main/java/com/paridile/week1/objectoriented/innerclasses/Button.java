@@ -1,4 +1,4 @@
-package com.paridile.week1.innerclasses;
+package com.paridile.week1.objectoriented.innerclasses;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

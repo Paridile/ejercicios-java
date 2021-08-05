@@ -1,9 +1,9 @@
-package com.paridile.week1.innerclasses;
+package com.paridile.week1.objectoriented.innerclasses;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-public class Main {
+public class Panel {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Prueba clase interna");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
