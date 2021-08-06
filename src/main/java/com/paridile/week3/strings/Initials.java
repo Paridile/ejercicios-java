@@ -12,8 +12,9 @@ public class Initials {
 		String[] words = name.trim().split(" ");		
 		String initials = "";
 		for (int i = 0; i < words.length; i++) {
-			initials += words[i].toUpperCase().charAt(0);
+			initials += words[i].charAt(0);
 		}
+		initials = initials.toUpperCase();
 		return initials;
 	}
 }
