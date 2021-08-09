@@ -9,7 +9,7 @@ public class Initials {
 	}
 
 	public static String initials(String name) {
-		String[] words = name.trim().split(" ");		
+		String[] words = name.trim().split("\\s+");
 		String initials = "";
 		for (int i = 0; i < words.length; i++) {
 			initials += words[i].charAt(0);
