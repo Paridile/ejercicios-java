@@ -9,12 +9,15 @@ public class Initials {
 	}
 
 	public static String initials(String name) {
-		String[] words = name.trim().split("\\s+");
-		String initials = "";
-		for (int i = 0; i < words.length; i++) {
-			initials += words[i].charAt(0);
+		StringBuilder initials = new StringBuilder();
+		if (name != null && !name.trim().isEmpty()) {
+			String[] words = name.trim().split("\\s+");
+			for (String word : words) {
+				initials.append(word.charAt(0));
+			}
+		}else {
+			return "";
 		}
-		initials = initials.toUpperCase();
-		return initials;
+		return initials.toString().toUpperCase();
 	}
 }
