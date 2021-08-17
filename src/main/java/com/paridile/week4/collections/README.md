@@ -9,6 +9,22 @@
 
 3. Interfaz Map y clases implementadoras
 
+</br>
+
+-----------------
+
+</br>
+
+
+## Ejercicios
+
+
+- [FirstSize](https://github.com/Paridile/ejercicios-java/blob/main/src/main/java/com/paridile/week4/collections/FirstSize.java): Este ejercicio ejemplifica el comportamiento de los TreeSets y como necesitan de la implementación de la interfaz Comparable.
+
+- [TreeSize](https://github.com/Paridile/ejercicios-java/blob/main/src/main/java/com/paridile/week4/collections/TreeSize.java): Este ejercicio hace uso de algunos de los métodos de la clase TreeSet como `add()`, `subSet()` y `pollFirst()`.
+
+- [TurtleTest](https://github.com/Paridile/ejercicios-java/blob/main/src/main/java/com/paridile/week4/collections/TurtleTest.java): En este ejercicio se utilizó la clase LinkedHashSet, agregando elementos a la colección y viendo como se comportan al compararlos cuando se hace una sobreescritura del método `equals()`, y `hashCode()`.
+
 
 </br>
 
@@ -16,7 +32,7 @@
 
 </br>
 
-## Ejercicios
+## Pruebas/ejemplos
 
 </br>
 
