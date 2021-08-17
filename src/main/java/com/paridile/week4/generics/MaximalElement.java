@@ -19,7 +19,7 @@ public final class MaximalElement {
 
 	public static void main(String[] args) {
 		List<Integer> list = Arrays.asList(5,2,3,6,2,10,3,5,11,4,7,10,4);
-		System.out.println(getMaximalElement(list, 0, list.size()));
+		System.out.println("Maximum element in list: " + getMaximalElement(list, 0, list.size()));
 
 	}
 }
